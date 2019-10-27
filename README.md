@@ -6,6 +6,6 @@ Workshops exploring introductory machine learning topics
 - linear regression: housing prices, automobile data 
 - logistic regression: diabetes predictions, MNIST handwritten digit dataset 
 - neural networks: MNIST handwritten digit and fashion datasets 
-- convolutional neural networks (CNNs): cats vs dogs 
+- convolutional neural networks (CNNs): cats vs dogs, cifar10 
 - recurrent neural networks (RNNs): obama vs trump tweets
 - generative adversarial networks (GANs): MNIST handwritten digit dataset 
